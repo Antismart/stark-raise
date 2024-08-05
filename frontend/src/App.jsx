@@ -12,7 +12,7 @@ function App() {
     const initProvider = async () => {
       console.log("Initializing provider...");
       try {
-        const nodeUrl = import.meta.env.VITE_NODE_URL;
+        const nodeUrl = "http://localhost:5050/rpc";
         console.log("Node URL:", nodeUrl);
         if (!nodeUrl) {
           throw new Error("Node URL is not defined in environment variables");
