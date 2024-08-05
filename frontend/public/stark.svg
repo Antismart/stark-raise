@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" className="w-48 h-24 mx-auto mb-4">
+   <rect width="200" height="100" fill="#FBFBFB"/>
+   <text x="10" y="60" fontFamily="Arial, sans-serif" fontSize="36" fontWeight="bold" fill="#0C0C4F">
+     Stark<tspan fill="#EC796B">Raise</tspan>
+   </text>
+   <path d="M160 50 L180 30 L180 70 Z" fill="#EC796B"/>
+ </svg>
